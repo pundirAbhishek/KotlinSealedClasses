@@ -1,0 +1,1 @@
+# KotlinSealedClasses
